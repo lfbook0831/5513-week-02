@@ -1,0 +1,15 @@
+[
+  {
+    "firstname"; "Fred",
+  "link": "https://www.santarosa.edu"
+  },
+  { 
+    "firstname"; "Jane",
+  "link": "https://www.apple.com"
+  },
+  { 
+    "firstname"; "Mary",
+  "link": "https://www.w3schools.com"
+  }
+  
+]
