@@ -1,15 +1,17 @@
 [
   {
-    "firstname"; "Fred",
-  "link": "https://www.santarosa.edu"
+    "petName": "Whiskers",
+    "breed": "Siamese",
+    "age": 2
   },
-  { 
-    "firstname"; "Jane",
-  "link": "https://www.apple.com"
+  {
+    "petName": "Kitina",
+    "breed": "Bombay",
+    "age": 2
   },
-  { 
-    "firstname"; "Mary",
-  "link": "https://www.w3schools.com"
+  {
+    "petName": "Priscilla",
+    "breed": "Tuxedo",
+    "age": 3
   }
-  
 ]
